@@ -339,7 +339,6 @@ export default function DashboardPage() {
                 </SelectTrigger>
                 <SelectContent>
                   <SelectGroup>
-                    {/* <SelectLabel>Fruits</SelectLabel> */}
                     <SelectItem value="BMW_X5_1">BMW X5</SelectItem>
                     <SelectItem value="BMW_X5_2">BMW X5</SelectItem>
                     <SelectItem value="BMW_X5_3">BMW X5</SelectItem>
