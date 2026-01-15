@@ -91,7 +91,7 @@ export default function CarListingForm() {
                     register={form.register("variant")}
                   />
                   <SelectField label="Condition" placeholder="Select" />
-                  <div className="md:col-span-2 ">
+                  <div className="lg:col-span-2 ">
                     <label className="block text-sm mb-2">Body Type</label>
                     <RadioGroup
                       defaultValue="SUV"
